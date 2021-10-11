@@ -5,3 +5,5 @@
 - TailwindCSS
 - OpenWeather API
 - React Icons
+
+![görsel](./src/ss.jpg)
